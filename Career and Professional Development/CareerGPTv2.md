@@ -9,7 +9,7 @@ This set of prompts will guide you though a career panel which will recommend ro
 
 ### How to use these prompts
 * Log into chatgpt https://chat.openai.com/, start a new conversation and enter the prompt and follow the conversation. 
-* **Note: This prompt is focused on roles at Microsoft in order to change this just replace "Microsoft" on line 22 and line 30 with your company or industy of preferece.**
+* **Note: This prompt is focused on roles at Microsoft in order to change this just replace "Microsoft" on line 30 and line 42 with your company or industy of preferece.**
 * **Note2 : While this does work with GPT-3, I've had much better results with GPT-4**
 
 ### Feedback
