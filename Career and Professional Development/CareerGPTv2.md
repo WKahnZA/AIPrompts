@@ -8,9 +8,9 @@
 This set of prompts will guide you though a career panel which will recommend roles for you based on your skills and then help you create a career development plan in the form of a report which will include a gap analysis and learning plan to help you get started. This is version 2 of CareerGPT the origional article can be found here https://aka.ms/careergpt
 
 ### How to use these prompts
-Log into chatgpt https://chat.openai.com/, start a new conversation and enter the prompt and follow the conversation. 
-**Note: This prompt is focused on roles at Microsoft in order to change this just replace "Microsoft" on line 22 and line 30 with your company or industy of preferece.**
-**Note2 : While this does work with GPT-3, I've had much better results with GPT-4**
+* Log into chatgpt https://chat.openai.com/, start a new conversation and enter the prompt and follow the conversation. 
+* **Note: This prompt is focused on roles at Microsoft in order to change this just replace "Microsoft" on line 22 and line 30 with your company or industy of preferece.**
+* **Note2 : While this does work with GPT-3, I've had much better results with GPT-4**
 
 ### Feedback
 Career development can be very tricky so if you found this approach useful please fill out this short 1 minute survey https://aka.ms/careergptfeedback!
