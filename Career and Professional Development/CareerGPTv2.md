@@ -5,7 +5,7 @@
 </p>
 
 
-This set of prompts will guide you through a conversation with a virtual career panel to help you create a career devlopment plan. This is version 2 of CareerGPT the origional article can be found here https://aka.ms/careergpt
+This set of prompts will guide you though a career panel which will recommend roles for you based on your skills and then help you create a career development plan in the form of a report which will include a gap analysis and learning plan to help you get started. This is version 2 of CareerGPT the origional article can be found here https://aka.ms/careergpt
 
 ### How to use these prompts
 Log into chatgpt https://chat.openai.com/, start a new conversation and enter the prompt and follow the conversation
