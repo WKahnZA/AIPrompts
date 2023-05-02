@@ -1,5 +1,10 @@
 # CareerGPTv2
 
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/WKahnZA/AIPrompts/blob/main/images/CareeGPT.png"> 
+</p>
+
+
 This set of prompts will guide you through a conversation with a virtual career panel to help you create a career devlopment plan. This is version 2 of CareerGPT the origional article can be found here https://aka.ms/careergpt
 
 ### How to use these prompts
