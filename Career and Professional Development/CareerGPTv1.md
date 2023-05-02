@@ -16,10 +16,14 @@ Career development can be very tricky so if you found this approach useful pleas
 4. My current role is < current role including prefix >, my top options for future roles are:
    1. < role 1 >
    2. < role 2 >
+
+
    repeat for as many roles as you are considering
 
 5. Give me a list of important skills for each of the roles I am considering
 6. Here are my current skills, identify gaps for each of the roles I am considering
+
+
 < list skills >
 7. Give me a learning plan for each of the roles i'm considering to address my gaps
 8. My name is < name >
