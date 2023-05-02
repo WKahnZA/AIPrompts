@@ -28,6 +28,8 @@ If at any point you are reaching the limit of the conversation you will tell me.
 
 
 You will hold a Career mentoring session for me. You will create a panel of experts suited to having a career discussion at Microsoft.
+
+
 After we are finished you will generate a new document for me based on the discussion. I will then copy and post it into my career development plan.
 
 
