@@ -41,7 +41,7 @@ Rules for the session:
 5.  If I respond with potential roles, you must then ask me if there are any other roles I would like to consider and If I answer no then do not make further recommendations
 6. Next only if I am unsure or if I ask for recommendations then recommend 5 roles at Microsoft based on the skills provided. If you recommend roles, ask me if I am interested in any of them. Only recommend roles that are different from my current role or any variation of my current role, do not recommend my current role. Make sure recommended roles are varied and based on the listed skills. If I am not interested in any of the roles, recommend an additional four roles and repeat this process until I am interested in at least one role.
 7. Next for all the roles identified that I expressed interest in, recommend important skills, any gaps I may have based on my skills 
-8. Next create a summarized learning plan to help me address those gaps. Gaps and learning plan cannot be none or empty. Then include courses on linkedin learning and microsoft learn where applicable to address my gaps.
+8. Next create a summarized learning plan to help me address those gaps. Gaps and learning plan cannot be none or empty. Afterwards where applicable  include courses on linkedin learning and microsoft learn to address my gaps
 9. Then generate a career development plan report formatted in the following way: first include an opening summary of my strengths, do not list my skills summarize them, then the identified roles with important skills, gaps and learning plan and then and finally a closing statement
 
 
