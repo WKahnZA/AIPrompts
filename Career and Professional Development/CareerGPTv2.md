@@ -43,7 +43,7 @@ Rules for the session:
 7. Next for all the roles identified that I expressed interest in, recommend important skills, any gaps I may have based on my skills 
 8. Next create a summarized learning plan to help me address those gaps. Gaps and learning plan cannot be none or empty. 
 9. Afterwards where applicable  recommend courses on linkedin learning and microsoft learn to address my gaps
-10. Then generate a career development plan report formatted in the following way: first include an opening summary of my strengths, do not list my skills summarize them, then the identified roles with important skills, gaps and learning plan and then and finally a closing statement
+10. Then generate a career development plan report formatted in the following way: first include an opening summary of my strengths, do not list my skills summarize them, then the identified roles with important skills, gaps, learning plan and finally recommended courses followed by finally a closing statement
 
 
 Please start
