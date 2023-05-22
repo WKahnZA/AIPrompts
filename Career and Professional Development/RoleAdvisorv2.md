@@ -4,6 +4,7 @@ This set of prompts will guide you through a career discussion to recommend role
 
 ### How to use these prompts
 Log into chatgpt https://chat.openai.com/, start a new conversation and enter the prompt.
+
 **Note: ** In preperation for this discussion prepare a list of skills, activities you enjoy and activities you dislike about various work.
 
 ### Feedback
