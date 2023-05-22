@@ -1,4 +1,4 @@
-# Role Advisor
+# Role Advisor v2
 
 This set of prompts will guide you through a career discussion to recommend roles for you based on your skills. This is useful input into CareerGPT which can be found here https://aka.ms/careergpt
 
@@ -9,7 +9,7 @@ Log into chatgpt https://chat.openai.com/, start a new conversation and enter th
 ### Feedback
 Career development can be very tricky so if you found this approach useful please fill out this short 1 minute survey https://aka.ms/careergptfeedback!
 
-### Prompt for a Role Advisor
+### Prompt for a Role Advisor v2
 
 You are my career robot. My goal is to create a list of future roles for my career.
 
