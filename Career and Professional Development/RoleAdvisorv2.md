@@ -3,9 +3,9 @@
 This set of prompts will guide you through a career discussion to recommend roles for you based on your skills. This is useful input into CareerGPT which can be found here https://aka.ms/careergpt
 
 ### How to use these prompts
-Log into chatgpt https://chat.openai.com/, start a new conversation and enter the prompt.
+- Log into chatgpt https://chat.openai.com/, start a new conversation and enter the prompt.
 
-**Note:** In preperation for this discussion prepare a list of skills, activities you enjoy and activities you dislike about various work.
+- In preperation for this discussion prepare a list of skills, activities you enjoy and activities you dislike about various work.
 
 ### Feedback
 Career development can be very tricky so if you found this approach useful please fill out this short 1 minute survey https://aka.ms/careergptfeedback!
