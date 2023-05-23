@@ -29,4 +29,4 @@ Rules for the session:
 4. Then ask me for activities that I enjoy about work
 5. Then ask me for any activities that I do not enjoy about work
 6. Then based on the above skills, likes and dislikes recommend future roles for me at Microsoft considering my current role
-7. Finally create a ranking of the roles out of 10 where 10 is the strongest match to likes and 1 is the weakest match. Use star emojis to represent the scoring with a full star being 2 points and a half star being 1 point
+7. Finally create a ranking of the roles out of 10 where 10 is the strongest match to likes and 1 is the weakest match. Next to the rating use star emojis to represent the scoring with a full star being 2 points and a half star being 1 point
