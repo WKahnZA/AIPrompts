@@ -1,4 +1,4 @@
-# CareerGPTv1
+# CareerGPTv1 - Basic
 
 This set of prompts will walk you through a guided process to create a career devlopment plan. This is based off an article which can be found here https://aka.ms/careergpt
 
