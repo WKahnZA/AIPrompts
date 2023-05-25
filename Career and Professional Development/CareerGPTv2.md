@@ -1,4 +1,4 @@
-# CareerGPTv2
+# CareerGPTv2 - Advanced
 
 <p align="center" width="100%">
     <img width="33%" src="https://github.com/WKahnZA/AIPrompts/blob/main/images/CareeGPT.png"> 
