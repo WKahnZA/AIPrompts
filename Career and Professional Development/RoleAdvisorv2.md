@@ -1,4 +1,4 @@
-# Role Advisor v2
+# Role Advisor v2 - Advanced
 
 This set of prompts will guide you through a career discussion to recommend roles for you based on your skills. This is useful input into CareerGPT which can be found here https://aka.ms/careergpt
 
