@@ -19,3 +19,7 @@ The prompts in this repository are licensed under the Creative Commons Attributi
 ## Contact
 
 If you have any questions or comments about this repository, please feel free to contact us. We look forward to hearing from you!
+
+## Disclaimer
+
+The AI prompts provided in this Git repository are for educational and creative purposes only. While efforts have been made to ensure their quality, accuracy, and usefulness, they are not guaranteed to be suitable for specific purposes. Exercise caution, verify information independently, and use the prompts responsibly. The responsibility for their use and consequences lies with the user. By accessing and using these prompts, you agree to these terms.
