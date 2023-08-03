@@ -31,6 +31,6 @@ Career development can be very tricky so if you found this approach useful pleas
 
 7. Give me a learning plan for each of the roles I'm considering to address my gaps.
 8. Where applicable recommend courses on LinkedIn learning and Microsoft learn to address my gaps
-9. My name is <name>
+9. My name is <name> (this step is optional)
 10. Compile a report summarizing my current role and strengths based on my skills (do not list the skills, summarize them) and then for each of roles I'm considering list my relevant strengths, gaps, learning plan and finally recommended courses.
 11. Give me a closing statement for my report
