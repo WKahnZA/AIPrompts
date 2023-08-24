@@ -9,9 +9,9 @@ This set of prompts will guide you though a career panel which will recommend ro
 
 ### How to use these prompts
 * Before you start spend some time thinking about your **skills and strengths as well as future roles you may be interested in** as you will be asked for these during the conversation.
-* Log into chatgpt https://chat.openai.com/, start a new conversation and enter the prompt and follow the conversation. 
+* Log into chatgpt https://chat.openai.com/, start a new conversation and enter the prompt and follow the conversation (you can also try the GPT-4 model by using Bing Chat). 
 * **Note: This prompt is focused on roles at Microsoft in order to change this just replace "Microsoft" on line 30 and line 42 with your company or industy of preferece.**
-* **Note2 : While this does work with GPT-3, I've had much better results with GPT-4. Similarly copying the raw formatted text can yield better results due to preserving the numbering of the steps**
+* **Note2 : While this does work with GPT-3, I've had much better results with GPT-4. Similarly copying the raw formatted text can yield better results due to preserving the numbering of the steps, you can also try the GPT-4 model by using Bing Chat**
 * **Note3 : If you get a strange output for your report you can click regenerate to get a different format or ask for specific amendments**
 * **Note4 : If the convertation stops with no guidance on what to do next try saying "proceed"**
 
