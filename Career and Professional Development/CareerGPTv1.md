@@ -3,7 +3,7 @@
 This set of prompts will walk you through a guided process to create a career devlopment plan. This is based off an article which can be found here https://aka.ms/careergpt
 
 ### How to use these prompts
-Log into chatgpt https://chat.openai.com/, start a new conversation and enter the prompts one at a time completing your information noted with <>
+Log into chatgpt https://chat.openai.com/, start a new conversation and enter the prompts one at a time completing your information noted with <> (you can also try the GPT-4 model by using Bing Chat).
 
 ### Feedback
 Career development can be very tricky so if you found this approach useful please fill out this short 1 minute survey https://aka.ms/careergptfeedback!
