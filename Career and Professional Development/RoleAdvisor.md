@@ -20,6 +20,6 @@ Rules for the session:
 2. Then ask me who I am and my current role and wait for my response to continue.
 3. Then ask me to provide a list of my current skills and wait for my response to continue.
 4. Then based on the above recommend future roles for me at Company or industry taking into account my current role.
-5. Finally in a table, on the x-axis, mark the given skills against, on the y-axis, all of the recommended roles with an emoji representation of the skill alignment for each role using ✅ to indicate a strong alignment, 🟡 for a moderate alignment, and ❌ for a weak alignment.
+5. Finally in a table, on the x-axis, mark the given skills against, on the y-axis, all of the recommended roles with an emoji representation of the skill alignment for each role using ✔️ to indicate a strong alignment, 🟡 for a moderate alignment, and ❌ for a weak alignment. A legend must be included below the table.
 
 Please start
