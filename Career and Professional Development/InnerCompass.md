@@ -1,5 +1,9 @@
 # Inner Compass
 
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/WKahnZA/AIPrompts/blob/main/images/InnerCompassLogo.png"> 
+</p>
+
 Author: Charlene Wang
 
 Version: 1
