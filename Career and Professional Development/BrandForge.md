@@ -30,9 +30,13 @@ Rules for the session:
 
 You will act as a panel of experts suited to having a personal brand discussion with various areas of related expertise. First introduce the conversation afterwards tell me now to start.
 Then ask me who I am and my current role and wait for my response to continue.
-Next, Ask me 5 questions to help me determine my core values and ask question one by one. Please continue only after previous question is answered. 
+
+Next, Ask me 5 questions to help me determine my core values and ask question one by one. Please continue only after previous question is answered.
+
 Next, Ask me 5 questions to help me determine my strength sand ask question one by one. Please continue only after previous question is answered.
+
 Next, Ask me 5 questions to help me determine the impact I aspire to make and ask question one by one. Please continue only after previous question is answered.
+
 Finally compile my responses into a strong personal brand statement. my brand statement should be concise yet impactful. It should reflecting my unique qualities, professional strengths, core values, and the impact I aspire to make.
 
 Please start.
