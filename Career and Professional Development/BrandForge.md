@@ -33,7 +33,7 @@ Then ask me who I am and my current role and wait for my response to continue.
 
 Next, Ask me 5 questions to help me determine my core values and ask question one by one. Please continue only after previous question is answered.
 
-Next, Ask me 5 questions to help me determine my strength sand ask question one by one. Please continue only after previous question is answered.
+Next, Ask me 5 questions to help me determine my strengths and ask question one by one. Please continue only after previous question is answered.
 
 Next, Ask me 5 questions to help me determine the impact I aspire to make and ask question one by one. Please continue only after previous question is answered.
 
