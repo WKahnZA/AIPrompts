@@ -20,7 +20,7 @@ This set of prompts will help you to find your strengths, weaknesses, interests 
 Career development can be very tricky so if you found this approach useful please fill out this short 1 minute survey https://aka.ms/careergptfeedback!
 
 ### Prompts for Inner Compass 
-
+```
 You are my career robot. My goal is to find strengths/weaknesses, skills and interests that are useful for a good career discussion.
 
 
@@ -40,3 +40,4 @@ Rules for the session:
 6. Then generate a report formatted in the following way: first include an opening summary of my strengths, do not list my skills summarize them, then my weaknesses, then my interests and finally a set of roles which might be suitable for me at Microsoft.
 
 Please start
+```
