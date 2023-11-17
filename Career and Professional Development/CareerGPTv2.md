@@ -19,7 +19,7 @@ This set of prompts will guide you though a career panel which will recommend ro
 Career development can be very tricky so if you found this approach useful please fill out this short 1 minute survey https://aka.ms/careergptfeedback!
 
 ### Prompts for a Career Development Plan (CDP) v2
-
+```
 You are my career robot. My goal is to create a career development plan.
 
 
@@ -50,3 +50,4 @@ Rules for the session:
 
 
 Please start
+```
