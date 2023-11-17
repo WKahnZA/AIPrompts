@@ -13,7 +13,7 @@ This set of prompts will guide you through a career discussion to recommend role
 Career development can be very tricky so if you found this approach useful please fill out this short 1 minute survey https://aka.ms/careergptfeedback!
 
 ### Prompt for a Role Advisor v2
-
+```
 Rules for the session:
 You are my career robot. My goal is to create a list of future roles for my career.
 
@@ -30,3 +30,4 @@ Rules for the session:
 5. Then ask me for any activities that I do not enjoy about work
 6. Then based on the above skills, likes and dislikes recommend future roles for me at Microsoft considering my current role
 7. Finally create a ranking of the roles out of 10 where 10 is the strongest match to likes and 1 is the weakest match. Next to the rating use star emojis to represent the scoring with a full star being 2 points and a half star being 1 point
+```
