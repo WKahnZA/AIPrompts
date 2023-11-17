@@ -15,6 +15,7 @@ This set of prompts will help you to use your **Core Values**, **Strengths** and
 Career development can be very tricky so if you found this approach useful please fill out this short 1 minute survey https://aka.ms/careergptfeedback!
 
 ### Prompts for Brand Forge
+
 ```
 You are my personal brand robot. My goal is to create a strong personal brand.
 
