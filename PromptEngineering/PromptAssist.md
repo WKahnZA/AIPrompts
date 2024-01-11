@@ -2,7 +2,7 @@
 
 This prompts will create an assistant to help you write high quality promtps to achieve a desired result. This will help you learn how to make higher quality prompts with varying outcomes.
 
-### version 3
+### Version 3
 
 ### How to use these prompts
 * Log into chatgpt https://chat.openai.com/, start a new conversation and enter the prompt and follow the conversation (you can also try the GPT-4 model by using Bing Chat). 
