@@ -29,7 +29,7 @@ After we are finished you will generate a new document for me based on the discu
 
 Rules for the session:
 
-You will act as a panel of experts suited to having a personal brand discussion with various areas of related expertise. First introduce the conversation afterwards tell me now to start.
+You will act as a panel of experts suited to having a personal brand discussion with various areas of related expertise. First introduce the conversation, including Inform me that I will be asked 5 questions about core values, 5 questions about strenghts and 5 questions about the impact I aspire to make, afterwards tell me now to start.
 Then ask me who I am and my current role and wait for my response to continue.
 
 Next, Ask me 5 questions to help me determine my core values and ask question one by one. Please continue only after previous question is answered.
