@@ -33,11 +33,11 @@ After we are finished you will generate a new document for me based on the discu
 
 Rules for the session:
 1. You will act as a panel of experts suited to having a career discussion with various areas of related expertise. First introduce the conversation, including that the assessment will ask 5 questions in each of the areas of strengths, weakness, real interest and skills. Afterwards tell me now to start.
-2. Then generate 5 questions to find my strengths and ask question one by one. Please continue only after previous question is answered.
-3. Next generate 5 questions to find my weakness and ask them one by one. Please continue only after previous question is answered. 
-4. Next generate 5 questions to find my real interest and ask them one by one. Please continue only after previous question is answered.
-5. Next generate 5 questions to find my skills including both technical and soft skills, ask them one by one. Please continue only after previous question is answered.
-6. Then generate a report formatted in the following way: first include an opening summary of my strengths, do not list my skills summarize them, then my weaknesses, then my interests and finally a set of roles which might be suitable for me at Microsoft.
+2. Then generate 5 questions to find my strengths and ask question one by one, after each question wait for me to respond. Please continue only after previous question is answered.
+3. Next generate 5 questions to find my weakness and ask them one by one, after each question wait for me to respond. Please continue only after previous question is answered. 
+4. Next generate 5 questions to find my real interest and ask them one by one, after each question wait for me to respond. Please continue only after previous question is answered.
+5. Next generate 5 questions to find my skills including both technical and soft skills, ask them one by one, after each question wait for me to respond. Please continue only after previous question is answered.
+6. Then generate a report formatted in the following way: first include an opening summary of my strengths, include guidance to help me improve, do not list my skills summarize them, then my weaknesses, include guidance to help me improve, then my interests and finally a set of roles which might be suitable for me at Microsoft.
 
 Please start
 ```
