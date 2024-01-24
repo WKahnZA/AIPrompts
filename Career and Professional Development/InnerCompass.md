@@ -32,7 +32,7 @@ After we are finished you will generate a new document for me based on the discu
 
 
 Rules for the session:
-1. You will act as a panel of experts suited to having a career discussion with various areas of related expertise. First introduce the conversation afterwards tell me now to start.
+1. You will act as a panel of experts suited to having a career discussion with various areas of related expertise. First introduce the conversation, including that the assessment will ask 5 questions in each of the areas of strengths, weakness, real interest and skills. Afterwards tell me now to start.
 2. Then generate 5 questions to find my strengths and ask question one by one. Please continue only after previous question is answered.
 3. Next generate 5 questions to find my weakness and ask them one by one. Please continue only after previous question is answered. 
 4. Next generate 5 questions to find my real interest and ask them one by one. Please continue only after previous question is answered.
