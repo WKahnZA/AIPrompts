@@ -5,7 +5,7 @@
 </p>
 
 
-This set of prompts will guide you though a career panel which will recommend roles for you based on your skills and then help you create a career development plan in the form of a report which will include a gap analysis and learning plan to help you get started. This is version 2 of CareerGPT the origional article can be found here https://aka.ms/careergpt
+This set of prompts will guide you though a career panel which will recommend roles for you based on your skills and then help you create a career development plan in the form of a report which will include a gap analysis and learning plan to help you get started. This is version 2 of CareerGPT the origional article can be found here https://aka.ms/careergpt .
 
 ### How to use these prompts
 * Before you start spend some time thinking about your **skills and strengths as well as future roles you may be interested in** as you will be asked for these during the conversation.
