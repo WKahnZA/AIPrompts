@@ -1,6 +1,6 @@
 # Role Advisor - Basic
 
-This set of prompts will guide you through a career discussion to recommend roles for you based on your skills. This is useful input into CareerGPT which can be found here https://aka.ms/careergpt
+This set of prompts will guide you through a career discussion to recommend roles for you based on your skills. This is useful input into CareerGPT which can be found here https://aka.ms/careergpt .
 
 ### How to use these prompts
 Log into chatgpt https://chat.openai.com/, start a new conversation and enter the prompt (you can also try the GPT-4 model by using Bing Chat).
